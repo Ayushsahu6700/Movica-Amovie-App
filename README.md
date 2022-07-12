@@ -1,6 +1,6 @@
-# movica
+# movica-A movie detail app using tmdb api
 
-A movie detail app using tmdb api
+
 ![image](https://user-images.githubusercontent.com/54814827/178587857-3dc76048-31c9-452e-85f9-d1abc1851c08.png)
 ![image](https://user-images.githubusercontent.com/54814827/178587887-2edfd687-a49c-4aff-9756-c421c005dfea.png)
 ![image](https://user-images.githubusercontent.com/54814827/178587913-306240f8-1de7-4c59-9a04-0323807f1218.png)
